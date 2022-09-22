@@ -1,0 +1,63 @@
+header {
+    height: 100vh;
+    padding-top: 7rem;
+    overflow: hidden;
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtEHFuI-QsG7V2QgmlV2e5HXH3K640VuVxkG7bzrWFDqSeT5o5wMelHQG-p6j_snKcnzQ&usqp=CAU');
+    /* background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqd9veG0ncekDF-66PeEX6SgV4rcDVAKz1rexTLlk6RxvbN-4Rg7wcEnn_ErPhYdaQL34&usqp=CAU'); */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.header__container {
+    text-align: center;
+    height: 100%;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+/*=============== CTA ===============*/
+
+.cta {
+    margin-top: 2.5rem;
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+}
+
+/*=============== HEADER SOCIALS ===============*/
+
+.header__socials {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 2rem;
+    height: 100px;
+}
+span {
+    color: rgb(134, 225, 16);
+}
+
+
+/*=============== MEDIA QUERIES ===============*/
+
+/*========== Medium devices ==========*/
+@media screen and (max-width:1024px) {
+    header {
+        height: 100vh;
+    }
+}
+
+/*========== Small devices ==========*/
+@media screen and (max-width:600px) {
+    header {
+        height: 100vh;
+    }
+
+    /* .header__socials,
+    .scroll__down {
+        display: none;
+    } */
+}
