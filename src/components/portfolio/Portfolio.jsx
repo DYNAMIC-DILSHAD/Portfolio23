@@ -15,8 +15,8 @@ const Portfolio = () => {
       id:1,
       image:Img1,
       title:"Portfolio",
-      github:"https://github.com",
-      demo:"https://dribbble.com"
+      github:"https://github.com/DYNAMIC-DILSHAD/Portfolio23",
+      demo:"https://wonderful-truffle-6fa2db.netlify.app/"
     },
     {
       id:2,
@@ -43,8 +43,8 @@ const Portfolio = () => {
       id:5,
       image:Img5,
       title:"Portfolio",
-      github:"https://github.com",
-      demo:"https://dribbble.com"
+      github:"https://github.com/DYNAMIC-DILSHAD/Portfolio23",
+      demo:"https://wonderful-truffle-6fa2db.netlify.app/"
     },
     {
       id:6,
