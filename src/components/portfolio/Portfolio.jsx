@@ -3,12 +3,12 @@ import React from "react";
 import "./portfolio.css";
 
 import Img1 from "../../assets/portfolio1.png";
-import Img2 from  "../../assets/portfolio1.png";
+import Img2 from  "../../assets/Screenshot (158).png";
 import Img3 from "../../assets/portfolio3.jpeg";
 import Img4 from "../../assets/portfolio4.jpeg";
 import Img5 from "../../assets/portfolio1.png";
 import Img6 from "../../assets/portfolio2.jpeg";
-import Img2 from "../../assets/portfolio2.jpeg";
+import Img7 from "../../assets/portfolio2.jpeg";
 
 const Portfolio = () => {
 
@@ -50,7 +50,7 @@ const Portfolio = () => {
     },
     {
       id:6,
-      image:Img6,
+      image:Img7,
       title:"Student Grade Calcy",
       github:"https://github.com/DYNAMIC-DILSHAD/studentGradeApp",
       demo:"https://illustrious-sunshine-8c52d5.netlify.app"
