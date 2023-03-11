@@ -3,7 +3,7 @@ import React from "react";
 import "./portfolio.css";
 
 import Img1 from "../../assets/portfolio1.png";
-import Img2 from  "../../assets/Screenshot (158).png";
+import Img2 from "../../assets/Screenshot (158).png";
 import Img3 from "../../assets/portfolio3.jpeg";
 import Img4 from "../../assets/portfolio4.jpeg";
 import Img5 from "../../assets/portfolio1.png";
@@ -23,9 +23,9 @@ const Portfolio = () => {
     {
       id:2,
       image:Img2,
-      title:"Student Grdae calcy",
+      title:"Restaurant App",
       github:"https://github.com/DYNAMIC-DILSHAD/studentGradeApp",
-      demo:"https://illustrious-sunshine-8c52d5.netlify.app"
+      demo:"https://csb-deuv9v.netlify.app/"
     },
     {
       id:3,
