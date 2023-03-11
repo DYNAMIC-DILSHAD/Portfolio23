@@ -24,7 +24,7 @@ const Portfolio = () => {
       id:2,
       image:Img2,
       title:"Restaurant App",
-      github:"https://github.com/DYNAMIC-DILSHAD/studentGradeApp",
+      github:"https://github.com/DYNAMIC-DILSHAD/Mni_Restaurant_App",
       demo:"https://csb-deuv9v.netlify.app/"
     },
     {
